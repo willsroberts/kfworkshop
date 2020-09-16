@@ -1,7 +1,7 @@
 # Kubeflow Workshop for Data Scientists Practicing ML Ops
 Repository to hold code, instructions, demos and pointers to presentation assets for [Kubeflow](https://github.com/kubeflow) Workshop. In this workshop, we are going to help data scientists understand the Kubeflow ecosystem and how to  make it easy for develop, deploy, and manage portable, scalable ML everywhere and support the full lifecycle Machine Learning using [Kubeflow](https://www.kubeflow.org/). We are going to discuss how to deploy Kubeflow, and detail how to enable distributed training of models, model serving, canary rollouts, drift detection, model explainability, metadata management, pipelines and others.
 
-If there are developers who want to use this content at their own pace - as well as learn how to manage and contribute to Kubeflow - pre-recorded sessions are uploaded on the original IBM Kubeflow [Dojo](https://github.com/IBM/KubeflowDojo). For those who prefer live interactions, we will be running the session live.
+If there are developers who want to use this content at their own pace - as well as learn how to manage and contribute to Kubeflow - pre-recorded sessions are uploaded on the original IBM Kubeflow [Dojo](https://github.com/IBM/KubeflowDojo). All credit for code and in this workspace goes to the hard work of the contributors to the original Dojo.
 
 Read about [IBM's journey with Kuebflow here](https://developer.ibm.com/blogs/kubeflow-and-ibm-an-open-source-journey-to-10/)
 
@@ -31,7 +31,7 @@ The Kubeflow Slack workspace is kubeflow.slack.com. To join, click this [invitat
 
 <hr>
 
-2nd Half: **Day Two**
+2nd Half: **Hands On Portion**
 
 |Topic|Presenter|Links|
 |---|---|---|
