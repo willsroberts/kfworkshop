@@ -1,4 +1,4 @@
-# Kubeflow Workshop for Data Scientists Supporting ML Ops
+# Kubeflow Workshop for Data Scientists Practicing ML Ops
 Repository to hold code, instructions, demos and pointers to presentation assets for [Kubeflow](https://github.com/kubeflow) Workshop. In this workshop, we are going to help data scientists understand the Kubeflow ecosystem and how to  make it easy for develop, deploy, and manage portable, scalable ML everywhere and support the full lifecycle Machine Learning using [Kubeflow](https://www.kubeflow.org/). We are going to discuss how to deploy Kubeflow, and detail how to enable distributed training of models, model serving, canary rollouts, drift detection, model explainability, metadata management, pipelines and others.
 
 If there are developers who want to use this content at their own pace - as well as learn how to manage and contribute to Kubeflow - pre-recorded sessions are uploaded on the original IBM Kubeflow [Dojo](https://github.com/IBM/KubeflowDojo). For those who prefer live interactions, we will be running the session live.
@@ -25,8 +25,7 @@ The Kubeflow Slack workspace is kubeflow.slack.com. To join, click this [invitat
 
 |Topic|Presenter|Links|
 |---|---|---|
-|ML Ops - What is it and why care?|Will| [Slides](https://higherlogicdownload.s3.amazonaws.com/IMWUC/UploadedImages/12f13a33-bced-4573-8dd7-be58d519757c/MLOps.pdf
-)|
+|ML Ops - What is it and why care?|Will|[Slides](https://higherlogicdownload.s3.amazonaws.com/IMWUC/UploadedImages/12f13a33-bced-4573-8dd7-be58d519757c/MLOps.pdf)|
 |Kubeflow - End to end ML on Kubernetes|Animesh|[Kubeflow End to End](https://www.slideshare.net/AnimeshSingh/end-to-end-machine-learning-using-kubeflowbuild-train-deploy-and-manage)<br>[Dojo Video](https://www.youtube.com/watch?v=TenRufHdK8o)|
 
 
@@ -37,9 +36,9 @@ The Kubeflow Slack workspace is kubeflow.slack.com. To join, click this [invitat
 |Topic|Presenter|Links|
 |---|---|---|
 |Kubeflow Deployment Hands On|Will|[Deployment on IKS](HandsOn/Deployment/kubeflow-on-iks.md)<br>[Deployment on minikube](HandsOn/Deployment/kubeflow-on-minikube.md)<br>[Dojo Video](https://www.youtube.com/watch?v=8SrTTokXEvw)|
-|Extra Credit: Tryout Kubeflow Components |Tommy| [Hands On Notebook](/HandsOn/day1)<br>[Video](https://www.youtube.com/watch?v=0UHGghi3ChA&list=PLmzRWLV1CK_wzDbhB95nImDyaiNrrOg8S&index=7)|
+|Extra Credit: Tryout Kubeflow Components |Tommy Recording| [Hands On Notebook](/HandsOn/day1)<br>[Video](https://www.youtube.com/watch?v=0UHGghi3ChA&list=PLmzRWLV1CK_wzDbhB95nImDyaiNrrOg8S&index=7)|
 |KFServing deep dive|Will|[Slides](https://www.slideshare.net/AnimeshSingh/kfserving-serverless-model-inferencing-236725227)<br>[Dojo Video](https://www.youtube.com/watch?v=VN2htoRSUzY&list=PLmzRWLV1CK_zYzciXjUrK2IRi3sZzshNl&index=4)<br>[Demo](/demo-materials/day2-kfs)|
-|Extra Credit: Distributed Training and HPO Deep Dive |Andrew, Kevin, Animesh|[Slides](https://www.slideshare.net/AnimeshSingh/kubeflow-distributed-training-and-hpo)<br>[Video](https://www.youtube.com/watch?v=KJFOlhD3L1E&list=PLmzRWLV1CK_zYzciXjUrK2IRi3sZzshNl&index=5)|
+|Extra Credit: Distributed Training and HPO Deep Dive |Andrew, Kevin, Animesh Recording|[Slides](https://www.slideshare.net/AnimeshSingh/kubeflow-distributed-training-and-hpo)<br>[Video](https://www.youtube.com/watch?v=KJFOlhD3L1E&list=PLmzRWLV1CK_zYzciXjUrK2IRi3sZzshNl&index=5)|
 
-**Recordings for dojo day 1 sessions:** [Kubeflow Dojo Day One Playlist](https://www.youtube.com/playlist?list=PLmzRWLV1CK_wzDbhB95nImDyaiNrrOg8S)
+**Recordings for dojo day 1 sessions:** [Kubeflow Dojo Day One Playlist](https://www.youtube.com/playlist?list=PLmzRWLV1CK_wzDbhB95nImDyaiNrrOg8S)\n
 **Recordings for dojo day 2 sessions:** [Kubeflow Dojo Day Two Playlist](https://www.youtube.com/playlist?list=PLmzRWLV1CK_zYzciXjUrK2IRi3sZzshNl)
