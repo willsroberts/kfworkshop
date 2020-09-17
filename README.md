@@ -35,9 +35,9 @@ The Kubeflow Slack workspace is kubeflow.slack.com. To join, click this [invitat
 
 |Topic|Presenter|Links|
 |---|---|---|
-|Kubeflow Deployment Hands On|Will|[Deployment on IKS](HandsOn/Deployment/kubeflow-on-iks.md)<br>[Deployment on minikube](HandsOn/Deployment/kubeflow-on-minikube.md)<br>[Dojo Video](https://www.youtube.com/watch?v=8SrTTokXEvw)|
-|Extra Credit: Tryout Kubeflow Components |Tommy Recording| [Hands On Notebook](/HandsOn/day1)<br>[Dojo Video](https://www.youtube.com/watch?v=0UHGghi3ChA&list=PLmzRWLV1CK_wzDbhB95nImDyaiNrrOg8S&index=7)|
-|KFServing deep dive|Will|[Slides](https://www.slideshare.net/AnimeshSingh/kfserving-serverless-model-inferencing-236725227)<br>[Dojo Video](https://www.youtube.com/watch?v=VN2htoRSUzY&list=PLmzRWLV1CK_zYzciXjUrK2IRi3sZzshNl&index=4)<br>[Demo](/demo-materials/day2-kfs)|
+|Kubeflow Deployment Hands On|Will|[Deployment on IKS](HandsOn/KFDeployment/kubeflow-on-iks.md)<br>[Deployment on minikube](HandsOn/KFDeployment/kubeflow-on-minikube.md)<br>[Dojo Video](https://www.youtube.com/watch?v=8SrTTokXEvw)|
+|Extra Credit: Tryout Kubeflow Components |Tommy Recording| [Hands On Notebook](https://github.com/IBM/KubeflowDojo/tree/master/HandsOn/day1)<br>[Dojo Video](https://www.youtube.com/watch?v=0UHGghi3ChA&list=PLmzRWLV1CK_wzDbhB95nImDyaiNrrOg8S&index=7)|
+|KFServing deep dive|Will|[Slides](https://www.slideshare.net/AnimeshSingh/kfserving-serverless-model-inferencing-236725227)<br>[Dojo Video](https://www.youtube.com/watch?v=VN2htoRSUzY&list=PLmzRWLV1CK_zYzciXjUrK2IRi3sZzshNl&index=4)<br>[Demo](/HandsOn/KFServing)|
 |Extra Credit: Distributed Training and HPO Deep Dive |Andrew, Kevin, Animesh Recording|[Slides](https://www.slideshare.net/AnimeshSingh/kubeflow-distributed-training-and-hpo)<br>[Dojo Video](https://www.youtube.com/watch?v=KJFOlhD3L1E&list=PLmzRWLV1CK_zYzciXjUrK2IRi3sZzshNl&index=5)|
 
 **Recordings for dojo day 1 sessions:** [Kubeflow Dojo Day One Playlist](https://www.youtube.com/playlist?list=PLmzRWLV1CK_wzDbhB95nImDyaiNrrOg8S)<br>
